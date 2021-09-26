@@ -43,21 +43,11 @@ https://github.com/guanrenyang/Pictures-In-Markdown-Files/blob/master/%E5%B1%8F%
 
 Loading progress:
 
-![屏幕截图 2020-12-23 030522](C:\Users\69540\Desktop\概统复习课\屏幕截图 2020-12-23 030522.png)
-
-
-
 #### B. Line Chart
 
 After loading data, click the "Fitting Line" button to open the "Line Chart" mode.
 
 It could show the **total number of departure orders** and the **total fees of departure orders** over time. Furthermore, you could select in which time span you plot the data and **the plotting precision will change with the change of the time span you choose** 
-
-Initial line chart![屏幕截图 2020-12-23 031217](C:\Users\69540\Desktop\概统复习课\屏幕截图 2020-12-23 031217.png)
-
-After changing the time span:
-
-![屏幕截图 2020-12-23 031250](C:\Users\69540\Desktop\概统复习课\屏幕截图 2020-12-23 031250.png)
 
 ### C. 3D Histogram
 
@@ -69,15 +59,9 @@ Check the "show second series" to set the histogram of fees visible.
 
 You could see the data of one particular day by change the text of the "Select Grid Number" ComboBox.
 
-All of the data:
+All of the data
 
-![屏幕截图 2020-12-23 031148](C:\Users\69540\Desktop\概统复习课\屏幕截图 2020-12-23 031148.png)
-
-One particular day:
-
-![屏幕截图 2020-12-23 031204](C:\Users\69540\Desktop\概统复习课\屏幕截图 2020-12-23 031204.png)
-
-
+One particular day
 
 #### 2. Order Information Predict
 
@@ -85,11 +69,6 @@ Input your **origin** and **destination** in the *Original City* and *Destinatio
 
 If your inputs are very ambiguous or illegal which result the program can't get the answer, it will remind you to "Please specity your address".
 
-Predict succeed:
+Predict succeed
 
-![屏幕截图 2020-12-23 031126](C:\Users\69540\Desktop\概统复习课\屏幕截图 2020-12-23 031126.png)
-
-Prediction fail:
-
-![屏幕截图 2020-12-23 031916](C:\Users\69540\Desktop\概统复习课\屏幕截图 2020-12-23 031916.png)
-
+Prediction fail
