@@ -37,11 +37,9 @@ You could use or check the program easily by:
 
 Click the "Load Data" button in the "File" tool bar in the up-left corner of the mainwindow and a new window will appear. You could select the data in any time span as you need.  If you won't change the time span, just click "Load" button and all of the data will be loaded by default.
 
-Selecting window:
+Selecting window
 
-https://github.com/guanrenyang/Pictures-In-Markdown-Files/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-12-23%20030449.png
-
-Loading progress:
+Loading progress
 
 #### B. Line Chart
 
